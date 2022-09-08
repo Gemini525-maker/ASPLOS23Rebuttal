@@ -1,1 +1,1 @@
-![Figure1]( https://github.com/Gemini525-maker/ASPLOS23Rebuttal/blob/master/DBbench-YCSB.jpg?raw=true)
+![Figure1]( https://github.com/Gemini525-maker/ASPLOS23Rebuttal/blob/master/images/DBbench-YCSB.png)
